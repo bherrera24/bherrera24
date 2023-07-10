@@ -43,5 +43,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bherrera24&theme=midnight-purple&langs_count=5&text_color=BD632F)
 
 </div>
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=bherrera24'></p>
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=USER_NAME'></p>
