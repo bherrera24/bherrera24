@@ -33,3 +33,13 @@
 ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 </div>
+
+<div align='center'><h2>GitHub Stats 📈</h2>
+
+![Berenice Herrera Github Stats](https://github-readme-stats.vercel.app/api?username=bherrera24&show_icons=true&theme=midnight-purple&text_color=BD632F) 
+
+<h2>Most Used Language</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bherrera24&theme=midnight-purple&langs_count=5&text_color=BD632F)
+
+</div>
