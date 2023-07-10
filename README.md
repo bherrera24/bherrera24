@@ -20,7 +20,7 @@
 -->
  
 
-- 👨‍🎓 I am a 2021 Undergrad.
+- 👨‍🎓 I am a Full Stack developer
 
 - 💻 I am a Self-taught **Web Developer**. 
 
