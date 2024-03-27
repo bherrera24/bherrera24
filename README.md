@@ -17,7 +17,7 @@
 -->
  
 
-- 👨‍🎓 I am a Full Stack developer
+- 👨‍🎓 I am a full stack developer
 
 - 💻 I am a Self-taught **Web Developer**. 
 
