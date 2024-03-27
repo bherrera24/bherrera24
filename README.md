@@ -10,7 +10,7 @@
  - ✌️ My name is **Berenice Herrera**. 
 
 - 🔭 I’m currently working on Devops role
-- 🌱 I’m currently learning K8s, Terraform Google Cloud Platform
+- 🌱 I’m currently learning K8s, Terraform, Google Cloud Platform
 - 📫 How to reach me: berenice.herrera2011@gmail.com
 - 😄 Pronoun: she
 - ⚡ Fun fact: I often look for things I have in my hand
